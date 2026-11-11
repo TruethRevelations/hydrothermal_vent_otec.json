@@ -1,0 +1,34 @@
+{
+  "dataset_metadata": {
+    "title": "Closed-Loop Deep-Ocean Hydrothermal Vent Heat Engine & Desalination System",
+    "author": "Thomas Krohmer, Environmental Systems Technologist",
+    "reference_frameworks": [
+      "Marshall Hydrothermal Recovery System",
+      "Reversed Ocean Thermal Energy Conversion (OTEC) Closed-Loop Architecture",
+      "MBARI Pacific Ring of Fire & Gulf of California Vent Mapping"
+    ],
+    "systemic_classification": "Clean Baseload Power, Distilled Water Production & Geopolitical Resource War Mitigation"
+  },
+  "engineering_architecture": {
+    "system_type": "Reversed OTEC Closed-Loop Heat Engine",
+    "core_modification": "Inverts standard OTEC (which extracts cold deep water) by capturing extreme thermal heat (~400°C / 750°F) directly from volcanic ocean vents",
+    "capture_mechanism": {
+      "collector": "Insulated upside-down funnel positioned over the volcanic hydrothermal vent",
+      "alignment_guide": "Initial seafloor positioning cylinder to center the funnel over the vent",
+      "ballast_and_insulation": "Sand or heavy seafloor material layered over the funnel to anchor it and prevent thermal loss",
+      "heat_transfer": "Internal heat exchanger positioned just before the inside spout of the funnel, feeding insulated steam pipes up to the surface platform"
+    },
+    "surface_infrastructure": "Repurposed deep-sea ocean-going oil drilling platform housing the closed-loop turbine heat engine",
+    "environmental_advantage": "Closed-loop design prevents toxic vent mineral plumes and heavy metals from mixing into ocean water or damaging turbines"
+  },
+  "performance_and_resource_outputs": {
+    "vent_thermal_temperature": "Up to 400°C (750°F) under high deep-sea pressure",
+    "single_vent_thermal_potential_mw": "15 MWe to 60 MW thermal (Marshall system upper benchmark targets ~5,000 MWe / 5 nuclear plants equivalent via multi-vent scaling)",
+    "primary_output_1": "Continuous, zero-emission baseload electricity for coastal grids (e.g., California & Pacific Ring of Fire)",
+    "primary_output_2": "Large-scale distilled freshwater byproduct (\"Blue Gold\") eliminating energy-intensive coastal desalination"
+  },
+  "macroeconomic_and_geopolitical_impact": {
+    "blind_spot_identified": "Short-term energy models favor fossil fuel extraction and centralized grids while ignoring water scarcity and resource-driven military conflicts.",
+    "required_correction": "Deploy decentralized offshore hydrothermal platforms to secure independent clean energy and distilled water, eliminating root drivers of global resource wars."
+  }
+}
